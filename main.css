@@ -33,6 +33,7 @@
 .jumbotron p {
   font-size: 20px;
   color: #fff;
+  -webkit-text-stroke: 1px black;
 }
 
 .learn-more {
